@@ -1,0 +1,5314 @@
+[
+  {
+    "id": "3b0fbf84-9f1c-493f-9e76-4d3eff7cb71a",
+    "text": "Q: I like to get a custom metal debit card.\nHow can i proceed?\nA: The feature is currently undergoing testing, and we hope to see it go live soon.",
+    "metadata": {
+      "id": "3b0fbf84-9f1c-493f-9e76-4d3eff7cb71a",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cab6f283-aa54-49fc-b0e5-e2cd39a9ead2",
+    "text": "Q: I like to get a custom metal debit card.\nHow can i proceed?\nA: when actually!",
+    "metadata": {
+      "id": "cab6f283-aa54-49fc-b0e5-e2cd39a9ead2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5d8764f9-6bb4-45fc-ba41-297f38233d77",
+    "text": "Q: Hi, as we know Jupiter has two accounts in the app with Federal Bank.\nI don’t have any ongoing pot but somehow I transferred money to my second account using account details.\nNow how can I transfer that money to my main savings account?\nA: Hai\n@Ray_Sar\n\nGo to POTS section and click on it.\nUse the",
+    "metadata": {
+      "id": "5d8764f9-6bb4-45fc-ba41-297f38233d77",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "97b5e32e-60fd-4664-b5f7-eafd8c63b8d9",
+    "text": "y_Sar\n\nGo to POTS section and click on it.\nUse the withdraw money/ delete Pots option",
+    "metadata": {
+      "id": "97b5e32e-60fd-4664-b5f7-eafd8c63b8d9",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f8017b73-7da6-47cb-9ce3-aa21306c8141",
+    "text": "Q: Hi, as we know Jupiter has two accounts in the app with Federal Bank.\nI don’t have any ongoing pot but somehow I transferred money to my second account using account details.\nNow how can I transfer that money to my main savings account?\nA: You can use UPI",
+    "metadata": {
+      "id": "f8017b73-7da6-47cb-9ce3-aa21306c8141",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d8db1b4c-d700-41ca-8bdd-3e7e6f0e2985",
+    "text": " use UPI",
+    "metadata": {
+      "id": "d8db1b4c-d700-41ca-8bdd-3e7e6f0e2985",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e1952405-d5da-437c-a97c-9b35bfc6ed2f",
+    "text": "Q: Hi, as we know Jupiter has two accounts in the app with Federal Bank.\nI don’t have any ongoing pot but somehow I transferred money to my second account using account details.\nNow how can I transfer that money to my main savings account?\nA: Hello Ray, we have reached out to you via DM. Kindly take",
+    "metadata": {
+      "id": "e1952405-d5da-437c-a97c-9b35bfc6ed2f",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f9ad3323-1bd2-4f5b-a678-e090c7cfee2d",
+    "text": "ay, we have reached out to you via DM. Kindly take a moment to review and share your registered details with us. Thank you.",
+    "metadata": {
+      "id": "f9ad3323-1bd2-4f5b-a678-e090c7cfee2d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4f71fffb-fea7-4c6e-919a-4d343b098169",
+    "text": "Q: Superpot is removed\nA: Yes. I believe it has gotten repaced by traditional recurring deposits",
+    "metadata": {
+      "id": "4f71fffb-fea7-4c6e-919a-4d343b098169",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "82482f41-a1e4-4c96-bddd-4b186c1bbf56",
+    "text": "Q: I received this email and a SMS from Federal Bank regarding periodic KYC update, but the link provided in the email isn’t working. Has anyone else faced this issue? What should I do next?\nA: Hi Saurabh, We understand that you have a query regarding an email from Federal about activating your Pots",
+    "metadata": {
+      "id": "82482f41-a1e4-4c96-bddd-4b186c1bbf56",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e6cf71db-3695-4d68-8b95-a1dd1c1e0aa2",
+    "text": "g an email from Federal about activating your Pots account, as the link provided was not working. We sincerely regret the experience. We see that you have successfully completed the Rekyc process.\nHowever, we have highlighted the case with the relevant team for further clarity, and we will ensure to",
+    "metadata": {
+      "id": "e6cf71db-3695-4d68-8b95-a1dd1c1e0aa2",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "68e66541-47a5-4a9b-bf95-ad5fe472832b",
+    "text": "nt team for further clarity, and we will ensure to get back to you soon with an update via email (4059405).\nThank you for your patience.",
+    "metadata": {
+      "id": "68e66541-47a5-4a9b-bf95-ad5fe472832b",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d4570491-b173-4879-8bf8-fd0d01a5b82f",
+    "text": "Q: Hey guys i am new to this community\nI am having issues with my pot withdrawls.\nI have tried multiple times withdrawing money from it but it’s showing withdrawal failed.\nMy jupiter account is active and so is my pots account.\nPleass help me to resolve this issue as i urgently need the money.\nA: He",
+    "metadata": {
+      "id": "d4570491-b173-4879-8bf8-fd0d01a5b82f",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d590d9fb-23ed-472c-bdaf-06d7a4caee24",
+    "text": "lve this issue as i urgently need the money.\nA: Hello Sanat, we understand that you’re experiencing issues while attempting to withdraw from your POTs account. We sincerely regret the inconvenience caused. We will reach out to you via DM to assist you further.",
+    "metadata": {
+      "id": "d590d9fb-23ed-472c-bdaf-06d7a4caee24",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "fb721475-40c7-4a38-979d-45c547698c87",
+    "text": "u further.",
+    "metadata": {
+      "id": "fb721475-40c7-4a38-979d-45c547698c87",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "be184b9e-5eea-4769-a651-66ef2b8ddb07",
+    "text": "Q: Hey guys i am new to this community\nI am having issues with my pot withdrawls.\nI have tried multiple times withdrawing money from it but it’s showing withdrawal failed.\nMy jupiter account is active and so is my pots account.\nPleass help me to resolve this issue as i urgently need the money.\nA: Ev",
+    "metadata": {
+      "id": "be184b9e-5eea-4769-a651-66ef2b8ddb07",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f8c7e0a4-7d14-45d3-b9bc-8037e8620b92",
+    "text": "lve this issue as i urgently need the money.\nA: Even I faced the issue, ultimately was asked to furnish new KYC docs physically in the nearest Federal Bank branch and time taken for this process was 3 to 4 working days",
+    "metadata": {
+      "id": "f8c7e0a4-7d14-45d3-b9bc-8037e8620b92",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7c0a19d7-a1bf-423c-8546-26dbedb575ac",
+    "text": "Q: Hi All\nI was paying my RTO tax online with my credit card on Vahan page. Money got deducted from my card but later on Vahan page got error out.\nI waited for 24 hours, now it is showing that transaction failed in Vahan app.\nSo somebody can please help me if my money get refunded automatically or I",
+    "metadata": {
+      "id": "7c0a19d7-a1bf-423c-8546-26dbedb575ac",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1c6b7956-569b-4788-b83a-154499b7cb79",
+    "text": "elp me if my money get refunded automatically or I have to follow somewhere. Please suggest\nA: Hello Sandeep! We understand your concern regarding the failed transaction. Typically, refunds for unsuccessful payments are processed automatically within a few working days. However, to ensure a smooth r",
+    "metadata": {
+      "id": "1c6b7956-569b-4788-b83a-154499b7cb79",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "725130c7-33b7-4ecd-8fa1-8a099ee73ffd",
+    "text": " a few working days. However, to ensure a smooth resolution, we will connect with you via DM for further assistance. Thank you for your patience.",
+    "metadata": {
+      "id": "725130c7-33b7-4ecd-8fa1-8a099ee73ffd",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "174e80ac-7ddf-4484-a0f6-6ad5ce2658c8",
+    "text": "Q: Hi,\nWhile onboarding, it doesn’t allow me to open savings account. The mobile number which I’m using for registering on Jupiter is already linked to my Aadhaar but still it gives error “Mobile number not linked to Aadhaar”.\nA: Hello Sushmita, we understand your concern and sincerely apologize for",
+    "metadata": {
+      "id": "174e80ac-7ddf-4484-a0f6-6ad5ce2658c8",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "faab6ef7-39bd-41ef-9ee5-d9a449302e28",
+    "text": "nderstand your concern and sincerely apologize for the inconvenience caused. Please be assured that we are here to assist you. We will connect with you via direct message shortly.\nThank you",
+    "metadata": {
+      "id": "faab6ef7-39bd-41ef-9ee5-d9a449302e28",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "0a7e01eb-d7e7-45e9-a1f2-9d2d44dd17c1",
+    "text": "Q: Hi,\nWhile onboarding, it doesn’t allow me to open savings account. The mobile number which I’m using for registering on Jupiter is already linked to my Aadhaar but still it gives error “Mobile number not linked to Aadhaar”.\nA: I’m facing the same issue, hope someone from the jupiter team helps me",
+    "metadata": {
+      "id": "0a7e01eb-d7e7-45e9-a1f2-9d2d44dd17c1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a11701e5-7d1b-4dea-b372-49de58e250f7",
+    "text": "issue, hope someone from the jupiter team helps me.",
+    "metadata": {
+      "id": "a11701e5-7d1b-4dea-b372-49de58e250f7",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "06d750f0-c73b-4a79-ab0f-5be30c24178b",
+    "text": "Q: Hi,\nWhile onboarding, it doesn’t allow me to open savings account. The mobile number which I’m using for registering on Jupiter is already linked to my Aadhaar but still it gives error “Mobile number not linked to Aadhaar”.\nA: Hello Rudranil! We sincerely apologize for any inconvenience this may ",
+    "metadata": {
+      "id": "06d750f0-c73b-4a79-ab0f-5be30c24178b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3926543f-35f8-43ec-be0c-5ceeba094aa8",
+    "text": "incerely apologize for any inconvenience this may have caused. Please rest assured that our team is here to assist you and address your concerns as quickly as possible. One of our representatives will be reaching out to you via direct message shortly to provide further support and resolve the issue.",
+    "metadata": {
+      "id": "3926543f-35f8-43ec-be0c-5ceeba094aa8",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "88a256d3-539b-4b55-8156-9d075ba53e24",
+    "text": " to provide further support and resolve the issue.\nThank you for your patience and understanding.",
+    "metadata": {
+      "id": "88a256d3-539b-4b55-8156-9d075ba53e24",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "81495f47-975e-4825-9c1e-7f07981253ba",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "81495f47-975e-4825-9c1e-7f07981253ba",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9289e2cd-9cb9-4a78-99c2-6f502a1a5f95",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: Tried loading slice wallet and was able to receive the OTP. Guess this needs a ticket to be raised for further investigation",
+    "metadata": {
+      "id": "9289e2cd-9cb9-4a78-99c2-6f502a1a5f95",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5b72bf05-f432-4fab-a4ce-63973ed3365a",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "5b72bf05-f432-4fab-a4ce-63973ed3365a",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8e0d5b8c-b40c-4014-a91e-91cb16f9db58",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: Did this happen on Amazon? I have faced the same issue too!",
+    "metadata": {
+      "id": "8e0d5b8c-b40c-4014-a91e-91cb16f9db58",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9e02277a-fd62-4368-a165-f5ebef7a9041",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "9e02277a-fd62-4368-a165-f5ebef7a9041",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1e835bc4-35d5-41db-b8b6-b1768729eb84",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: I also tried loading the Amazon wallet, and it’s not working. Flipkart transactions failed too",
+    "metadata": {
+      "id": "1e835bc4-35d5-41db-b8b6-b1768729eb84",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "10e35a69-39ed-4662-811c-235b4234b4cf",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "10e35a69-39ed-4662-811c-235b4234b4cf",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8dcd6eed-edc1-4b70-9a18-8679bf8a329c",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: Hi Saurabh, We understand that you encountered issues while making the debit card transactions, and we apologize for the inconvenience caused. Please note that the case has been escalated to the team, and we are working on it. Once",
+    "metadata": {
+      "id": "8dcd6eed-edc1-4b70-9a18-8679bf8a329c",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8c9e8a1b-32b6-4462-893b-abaf39027f11",
+    "text": "alated to the team, and we are working on it. Once we have an update, we will ensure to get back to you. Thank you.",
+    "metadata": {
+      "id": "8c9e8a1b-32b6-4462-893b-abaf39027f11",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ba3efdca-6dd0-4425-829e-194ed8b9fc3e",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "ba3efdca-6dd0-4425-829e-194ed8b9fc3e",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "04a7528c-5c3b-463e-841d-6e455c24e12f",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: @saurabh.s\ni competed a test transaction to add money to the Amazon wallet using my debit card. The transaction went through. Guess, this needs to be investigated and you should raise a ticket.",
+    "metadata": {
+      "id": "04a7528c-5c3b-463e-841d-6e455c24e12f",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c8516ad6-2f67-4b91-9c93-25054f3d3b49",
+    "text": "se a ticket.",
+    "metadata": {
+      "id": "c8516ad6-2f67-4b91-9c93-25054f3d3b49",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5a42c600-fee2-4774-9f8d-9f9f3482fd39",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "5a42c600-fee2-4774-9f8d-9f9f3482fd39",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5de11615-8a60-481c-86e7-97699f567c99",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: I’ve already raised a ticket about this, but haven’t heard back yet. Hoping to get it sorted soon!",
+    "metadata": {
+      "id": "5de11615-8a60-481c-86e7-97699f567c99",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e743dc78-aecc-4f53-bd55-b8b0b4886799",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "e743dc78-aecc-4f53-bd55-b8b0b4886799",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4ed8aaac-ee79-446f-9759-4f706cbdc199",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: It’s been more than 20 days since I reported this issue, and I still haven’t received a resolution. no one seems to be taking this seriously, there’s no update. Can someone from Jupiter’s support team actually look into this and pr",
+    "metadata": {
+      "id": "4ed8aaac-ee79-446f-9759-4f706cbdc199",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "17b0290a-563c-4270-a89f-227c453205ae",
+    "text": "iter’s support team actually look into this and provide a real solution instead of just saying it’s being escalated? This is really frustrating.",
+    "metadata": {
+      "id": "17b0290a-563c-4270-a89f-227c453205ae",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4cb7b0d3-9bb6-4230-822a-674fc0fa26ae",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "4cb7b0d3-9bb6-4230-822a-674fc0fa26ae",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ed01c589-6639-4b52-8cee-6969b34a1652",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: @Nikhil_Godbole\n\nThis issue has been ongoing for weeks, yet there has been no proper resolution—just vague, templated responses. your support team has been completely ineffective. How much longer will this take? If your team cannot",
+    "metadata": {
+      "id": "ed01c589-6639-4b52-8cee-6969b34a1652",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "76de0dbd-9be6-429d-b9ed-8a93bbfb8673",
+    "text": "ow much longer will this take? If your team cannot resolve a simple debit card issue, what’s the point of customer support? Stop wasting time and provide a concrete solution immediately. This level of service is unacceptable.",
+    "metadata": {
+      "id": "76de0dbd-9be6-429d-b9ed-8a93bbfb8673",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "373c1773-027f-462e-ad9a-b2b6c547f559",
+    "text": "Q: I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.\nHas anyone faced a",
+    "metadata": {
+      "id": "373c1773-027f-462e-ad9a-b2b6c547f559",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c721951b-5108-48cb-922b-a1cccb92c8ba",
+    "text": "ils, and everything seems fine.\nHas anyone faced a similar issue?\nA: @saurabh.s\nApologies for the delay in responding. Will get back with an update by tomorrow. Some details awaited from the Partner bank’s end.",
+    "metadata": {
+      "id": "c721951b-5108-48cb-922b-a1cccb92c8ba",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7669a72b-4a87-4439-a2d2-a612eaa592be",
+    "text": "Q: Hi,\nMy loan repayment due date is today 5-Feb.\nFrom morning it’s showing payment in progress\nBut money still not deducted from my account even though I have sufficient balance.\nMay I know how much time it will take ??\nAlso I got a case assignment to collection agent message. Will this be a proble",
+    "metadata": {
+      "id": "7669a72b-4a87-4439-a2d2-a612eaa592be",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "316db0f2-39f9-440c-b810-075144878cf1",
+    "text": "to collection agent message. Will this be a problem ??\nHI\nMy due date was yesterday … but the repayment has not gone through and I got the following msg\nPlease resolve the issue ASAP\nA: Hello Jagadishwar,\nWe have identified an eNACH related issue that was caused by a technical problem on our end. We",
+    "metadata": {
+      "id": "316db0f2-39f9-440c-b810-075144878cf1",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "007bf5b9-42f3-4c0a-a7b0-b99717aa7eb1",
+    "text": "t was caused by a technical problem on our end. We are currently working to resolve this issue as quickly as possible. Once the issue is resolved, we will notify you via App-Push notification and WhatsApp. Please be assured that no penalty charges will be applied to your loan account due to this iss",
+    "metadata": {
+      "id": "007bf5b9-42f3-4c0a-a7b0-b99717aa7eb1",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e1c06c9c-bcb4-43d7-9d4f-4f313dbe7b9f",
+    "text": "ll be applied to your loan account due to this issue. You can safely ignore any Overdue EMI messages you may receive in the meantime.\nThank you for your patience and understanding.",
+    "metadata": {
+      "id": "e1c06c9c-bcb4-43d7-9d4f-4f313dbe7b9f",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a8fc78b1-1cb1-4387-983f-36a801b8d181",
+    "text": "Q: Hi,\nMy loan repayment due date is today 5-Feb.\nFrom morning it’s showing payment in progress\nBut money still not deducted from my account even though I have sufficient balance.\nMay I know how much time it will take ??\nAlso I got a case assignment to collection agent message. Will this be a proble",
+    "metadata": {
+      "id": "a8fc78b1-1cb1-4387-983f-36a801b8d181",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "98a5a852-63bf-47ae-a05d-bbded6aba5a7",
+    "text": "to collection agent message. Will this be a problem ??\nHI\nMy due date was yesterday … but the repayment has not gone through and I got the following msg\nPlease resolve the issue ASAP\nA: Plus one ,Even i am too facing the same issue.",
+    "metadata": {
+      "id": "98a5a852-63bf-47ae-a05d-bbded6aba5a7",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "57635d25-51ad-4ce4-8327-b0d31a4da814",
+    "text": "Q: Hi,\nMy loan repayment due date is today 5-Feb.\nFrom morning it’s showing payment in progress\nBut money still not deducted from my account even though I have sufficient balance.\nMay I know how much time it will take ??\nAlso I got a case assignment to collection agent message. Will this be a proble",
+    "metadata": {
+      "id": "57635d25-51ad-4ce4-8327-b0d31a4da814",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a34ed9b2-0666-4a77-9f9b-62f3338dbd92",
+    "text": "to collection agent message. Will this be a problem ??\nHI\nMy due date was yesterday … but the repayment has not gone through and I got the following msg\nPlease resolve the issue ASAP\nA: Same Thing is Happening with me as well…\nWhat to do?",
+    "metadata": {
+      "id": "a34ed9b2-0666-4a77-9f9b-62f3338dbd92",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "bcfbb733-d60d-4934-ba0d-2b367f1da108",
+    "text": "Q: How to reset my mpin when I dont have debit card details? When I try with facial recognition via Aadhar, even after providing correct details the mpin is not resetting.\nA: Hello Hareesh! Thank you for reaching out and sharing your concern. We regret any inconvenience caused and we’ll connect with",
+    "metadata": {
+      "id": "bcfbb733-d60d-4934-ba0d-2b367f1da108",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "33ac2057-93ef-46e3-8292-c0e7c3b1a933",
+    "text": "et any inconvenience caused and we’ll connect with you via Dm to assist you further. Thank you for your understanding.",
+    "metadata": {
+      "id": "33ac2057-93ef-46e3-8292-c0e7c3b1a933",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9a3dcd14-1247-4f11-b26d-74cbf5d7fd9c",
+    "text": "Q: hi friends,\nplease tell\nHow to redeem Jupiter CC points without a new jupiter bank account ?\nA: I believe there is an option to use the points while making a bill payment or an option to redeem them for vouchers. It is recommended you reach out to the in app chat support to get more detailed info",
+    "metadata": {
+      "id": "9a3dcd14-1247-4f11-b26d-74cbf5d7fd9c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ecda9c78-461d-4b5a-b642-4397e956743c",
+    "text": " the in app chat support to get more detailed information",
+    "metadata": {
+      "id": "ecda9c78-461d-4b5a-b642-4397e956743c",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "25e20a1e-1ef9-4d19-9021-407df0167e5e",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "25e20a1e-1ef9-4d19-9021-407df0167e5e",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8932faf9-1ab5-4ae7-8503-8db8d17033ca",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: @Sushiii777\nI don’t think you can access your account again as there is no way to change mobile nu",
+    "metadata": {
+      "id": "8932faf9-1ab5-4ae7-8503-8db8d17033ca",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "72a91c9b-b0e0-485e-ba34-e3239f29e141",
+    "text": "count again as there is no way to change mobile number in Jupiter as of now.\nBut your may be able to get your money back.\nDid you raise a complaint at support@jupiter.money?\nTagging\n@Nikhil_Godbole\nfor clarification.",
+    "metadata": {
+      "id": "72a91c9b-b0e0-485e-ba34-e3239f29e141",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5f98f6de-31d4-4431-9e16-a8332dc34d94",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "5f98f6de-31d4-4431-9e16-a8332dc34d94",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e9f42660-2fa4-4f6f-8d07-fc7fd6923e52",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Yes I have tried to ask them to change my mobile number so that i can take out the money atleast, ",
+    "metadata": {
+      "id": "e9f42660-2fa4-4f6f-8d07-fc7fd6923e52",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "82c30e59-e371-4bbb-915d-ae83982ffb79",
+    "text": " number so that i can take out the money atleast, but if its possible without changing the number it will be really helpful.\nCould you please tell me the process?",
+    "metadata": {
+      "id": "82c30e59-e371-4bbb-915d-ae83982ffb79",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "dc85d716-c899-4ed8-a05b-5d446a2a245b",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "dc85d716-c899-4ed8-a05b-5d446a2a245b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "04758507-7fd2-4200-b254-28e2bc4b6a72",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Please wait for\n@Nikhil_Godbole\nto guide further.\nI am also not sure how it works. But I am guessi",
+    "metadata": {
+      "id": "04758507-7fd2-4200-b254-28e2bc4b6a72",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3d50b14d-fe5f-46ec-9fd6-87937145457b",
+    "text": ".\nI am also not sure how it works. But I am guessing that there will be a process for this.\nAs Jupiter is mostly automated especially to keep costs down, I suppose these issues crop up.\nI am sure that Jupiter will make a note of it and improve.",
+    "metadata": {
+      "id": "3d50b14d-fe5f-46ec-9fd6-87937145457b",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f6961ade-6c5c-4333-80ab-20dfbedf5bd1",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "f6961ade-6c5c-4333-80ab-20dfbedf5bd1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5839c692-a2cb-4cce-bcc3-6ef3bec4b980",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Let’s hope for good, If i got my money back It’ll be really helpful",
+    "metadata": {
+      "id": "5839c692-a2cb-4cce-bcc3-6ef3bec4b980",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "27feb766-5971-4871-a2fb-13278ba50c30",
+    "text": "l be really helpful",
+    "metadata": {
+      "id": "27feb766-5971-4871-a2fb-13278ba50c30",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4f46b0e5-801e-4d1a-a34d-0d045d991953",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "4f46b0e5-801e-4d1a-a34d-0d045d991953",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d0bc08ad-db7f-4b03-a915-4d29c025e68b",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: @Sushiii777\nWelcome to the community\nHave you tried obtaining a duplicate SIM card from your netwo",
+    "metadata": {
+      "id": "d0bc08ad-db7f-4b03-a915-4d29c025e68b",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "41692b92-b748-429a-b016-66389c737513",
+    "text": "ied obtaining a duplicate SIM card from your network provider’s office? I believe that would be a simpler process compared to changing your mobile number on the app.",
+    "metadata": {
+      "id": "41692b92-b748-429a-b016-66389c737513",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "12adb560-d216-4abd-97eb-f35decfc87a2",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "12adb560-d216-4abd-97eb-f35decfc87a2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e727b4e7-48bc-464a-8272-beeb3400648d",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: @Sushiii777\nIf you have lost the old number, we will not be able to update the new number. Do you ",
+    "metadata": {
+      "id": "e727b4e7-48bc-464a-8272-beeb3400648d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "54a6232b-969c-4e83-8cd6-691bd25dbb73",
+    "text": "will not be able to update the new number. Do you have access to the debit card or Cheque book ?",
+    "metadata": {
+      "id": "54a6232b-969c-4e83-8cd6-691bd25dbb73",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f44eac98-eaea-4841-92b4-532a0a5088d6",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "f44eac98-eaea-4841-92b4-532a0a5088d6",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "38002a81-f845-4e8a-9023-0f027c5fdd41",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Yes i tried to do that too, but the number is already alloted to someone else.",
+    "metadata": {
+      "id": "38002a81-f845-4e8a-9023-0f027c5fdd41",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ddf518ed-e332-4bdb-97b5-c49fb00734b2",
+    "text": "ready alloted to someone else.",
+    "metadata": {
+      "id": "ddf518ed-e332-4bdb-97b5-c49fb00734b2",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5d908613-4461-477a-b698-bdb5712041ef",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "5d908613-4461-477a-b698-bdb5712041ef",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9ea423cf-6b84-4d54-a636-4bea3106b3a5",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Yes i have the debit card with me but it is not working i tried many times",
+    "metadata": {
+      "id": "9ea423cf-6b84-4d54-a636-4bea3106b3a5",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "37c38ef2-364d-4362-ae34-6d4dc87cf6f3",
+    "text": "working i tried many times",
+    "metadata": {
+      "id": "37c38ef2-364d-4362-ae34-6d4dc87cf6f3",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "03b4d259-94aa-4ad9-b216-316b529db6e5",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "03b4d259-94aa-4ad9-b216-316b529db6e5",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9da5c6e8-6320-49dd-9f20-0bb81c0b0182",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: @Sushiii777\nAre you trying to withdraw money from the ATM ? Please help with the last 2 digits of ",
+    "metadata": {
+      "id": "9da5c6e8-6320-49dd-9f20-0bb81c0b0182",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5c318d9c-6fca-4710-8ce1-510b121dc4de",
+    "text": "m the ATM ? Please help with the last 2 digits of the Debit Card",
+    "metadata": {
+      "id": "5c318d9c-6fca-4710-8ce1-510b121dc4de",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4b3916d0-fc1d-46e0-a7a2-fb4dab649fcc",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "4b3916d0-fc1d-46e0-a7a2-fb4dab649fcc",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1704d680-0017-45f9-824f-5ccc9ade5014",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Yes i tried to withdraw it from atm and the last two digits are 77",
+    "metadata": {
+      "id": "1704d680-0017-45f9-824f-5ccc9ade5014",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "be79e243-6fe5-4003-852a-682872a84439",
+    "text": " two digits are 77",
+    "metadata": {
+      "id": "be79e243-6fe5-4003-852a-682872a84439",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d56a06ed-ff85-4da1-a56c-e6458f9c3112",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "d56a06ed-ff85-4da1-a56c-e6458f9c3112",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "62b7bea6-e151-4673-a78f-a53b6f87320e",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: @Sushiii777\nThat is deactivated card. The new one which is issued is only a virtual card which you",
+    "metadata": {
+      "id": "62b7bea6-e151-4673-a78f-a53b6f87320e",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e83a2b0b-78c7-4fd0-87d8-268ca7660929",
+    "text": "e which is issued is only a virtual card which you can access it via App. unfortunately, since you do not have access to the old number, App access is also not possible. Let me get someone to call you and assist in this scenario.",
+    "metadata": {
+      "id": "e83a2b0b-78c7-4fd0-87d8-268ca7660929",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "10d3ba12-d29e-4149-b09c-175faa1dd5ee",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "10d3ba12-d29e-4149-b09c-175faa1dd5ee",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "49b6553e-4e4b-4ee1-a958-30ca54241e82",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: I was busy at that time so I was not able to answer the call so I request you sir to kindly arrang",
+    "metadata": {
+      "id": "49b6553e-4e4b-4ee1-a958-30ca54241e82",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "00de469c-da78-42e0-9260-cfd04084e6a9",
+    "text": "wer the call so I request you sir to kindly arrange a callback for now if possible.",
+    "metadata": {
+      "id": "00de469c-da78-42e0-9260-cfd04084e6a9",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "26a9a0c6-4ff9-4a72-be89-1ca51a1863a4",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "26a9a0c6-4ff9-4a72-be89-1ca51a1863a4",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b13519ff-bdd9-4366-8893-276eee4a2b16",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Yes talked to customer care and they have raised a request for chequebook, so it will be helpful t",
+    "metadata": {
+      "id": "b13519ff-bdd9-4366-8893-276eee4a2b16",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e71cfa0d-ec71-41be-8cc1-727a3c650602",
+    "text": " a request for chequebook, so it will be helpful to withdraw money",
+    "metadata": {
+      "id": "e71cfa0d-ec71-41be-8cc1-727a3c650602",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "64587d3c-0f7f-4d32-a953-470154795fa7",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "64587d3c-0f7f-4d32-a953-470154795fa7",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "889cbaa1-eadd-43ce-ba5c-5774dd7b9636",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: I also think that online banking is bit convenient but offline banking is more reliable",
+    "metadata": {
+      "id": "889cbaa1-eadd-43ce-ba5c-5774dd7b9636",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "df1b3583-93e3-4702-bce5-11c48601a07d",
+    "text": "nt but offline banking is more reliable",
+    "metadata": {
+      "id": "df1b3583-93e3-4702-bce5-11c48601a07d",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b3adb3ff-00c6-455d-b704-5c824da8487d",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "b3adb3ff-00c6-455d-b704-5c824da8487d",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1151d9ea-94e7-46ce-a8ff-febe026b458c",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: I think each of them have their own benefits and disadvantages…and hence both of them need to coex",
+    "metadata": {
+      "id": "1151d9ea-94e7-46ce-a8ff-febe026b458c",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "93e77946-b577-4fdd-a4f2-5b1d4d6811c4",
+    "text": " disadvantages…and hence both of them need to coexist…",
+    "metadata": {
+      "id": "93e77946-b577-4fdd-a4f2-5b1d4d6811c4",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "63325ed6-eb76-41b2-9a5d-8fff119aa386",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "63325ed6-eb76-41b2-9a5d-8fff119aa386",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "2525aced-5903-4ac0-9a25-e5ca7f8b18df",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Have you added Jupiter account in any other UPI app like Phonepe? If yes, you should be able to us",
+    "metadata": {
+      "id": "2525aced-5903-4ac0-9a25-e5ca7f8b18df",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9094f885-5a2f-43f2-abcd-6b947c717e92",
+    "text": "app like Phonepe? If yes, you should be able to use it and transfer",
+    "metadata": {
+      "id": "9094f885-5a2f-43f2-abcd-6b947c717e92",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d1c06770-fd2b-4231-88ef-f8dec8564465",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "d1c06770-fd2b-4231-88ef-f8dec8564465",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "38cdcb0e-7aa5-4f8d-bd5b-16b0106fcb89",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: I think registered mobile number is needed to make UPI transactions.\n@hemanthchandra62",
+    "metadata": {
+      "id": "38cdcb0e-7aa5-4f8d-bd5b-16b0106fcb89",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c835ed4a-c8db-40cd-be5f-9a41a3a50f27",
+    "text": "ke UPI transactions.\n@hemanthchandra62",
+    "metadata": {
+      "id": "c835ed4a-c8db-40cd-be5f-9a41a3a50f27",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "02a067bd-58e0-4f4f-ae62-dd8a7977d30e",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "02a067bd-58e0-4f4f-ae62-dd8a7977d30e",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "70a49a24-02ec-45c3-8653-ec3681d0703d",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: To add an account to the app, mobile number is required. If the account is already there in the ap",
+    "metadata": {
+      "id": "70a49a24-02ec-45c3-8653-ec3681d0703d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7b343892-16f4-4375-97eb-23353b642863",
+    "text": "equired. If the account is already there in the app, it might work. Can try once.",
+    "metadata": {
+      "id": "7b343892-16f4-4375-97eb-23353b642863",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "34ab4c53-ac5d-465e-9c94-6928bb6c217c",
+    "text": "Q: I am frustrated now with Jupiter as I wanted to change my mobile number as I lost my registered number and dont have access to it anymore, however i have some money which is stuck in that account and there is no freakin way to change number even through physical verification, really disappointed.",
+    "metadata": {
+      "id": "34ab4c53-ac5d-465e-9c94-6928bb6c217c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5b143695-5ed3-4625-922d-acafcc2d9c62",
+    "text": "hrough physical verification, really disappointed.\nAs a last hope i came to here to seek help however i dont think anything is going to happen, feels really sad to loose hard earned money like this.\nA: Hello, i have the same issue,\nBut i have no debit card, nor cheque leaf, but i do have account num",
+    "metadata": {
+      "id": "5b143695-5ed3-4625-922d-acafcc2d9c62",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8042e20f-f9f1-4103-8714-9ca67fa25d9d",
+    "text": "t card, nor cheque leaf, but i do have account number.\n@Nikhil_Godbole\n\nSir, is there any chances of reversing the money.",
+    "metadata": {
+      "id": "8042e20f-f9f1-4103-8714-9ca67fa25d9d",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a5d1deac-5d69-473b-999a-48666c4d3c63",
+    "text": "Q: Does jupiter have a referral code program? I am looking for a referral code on the app to share with my friends but I could not locate it on the app. Please guide me. Thank you\nA: Hello Bhavin,\nWe would like to inform you that, at present, we do not offer referral programs for savings accounts. H",
+    "metadata": {
+      "id": "a5d1deac-5d69-473b-999a-48666c4d3c63",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6e3a2709-9df4-4d1e-9b13-80a2921dbad0",
+    "text": "ot offer referral programs for savings accounts. However, we do provide this feature for our Rupay card. You will be able to find the same in the “Refer” section within the Jupiter app. Please find the steps below:\nJupiter App → Home Page → Scroll down to Refer & Earn section → Invite via whatsapp →",
+    "metadata": {
+      "id": "6e3a2709-9df4-4d1e-9b13-80a2921dbad0",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "aa896757-3917-4fe1-85e5-219809a8c62a",
+    "text": "wn to Refer & Earn section → Invite via whatsapp → share the link with the referee to download app using the same.\nWe hope this clarifies your query.",
+    "metadata": {
+      "id": "aa896757-3917-4fe1-85e5-219809a8c62a",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "933ce538-4887-4138-a0c1-c37e466783f2",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: Hi @Deveshu_Pathak.Thanks for highlighting this.\nWe faced some issues with PRO upgrades this month. Our team is actively looking into the problem. Your account will be upgraded by today EOD, onc",
+    "metadata": {
+      "id": "933ce538-4887-4138-a0c1-c37e466783f2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "594f9f82-62b0-416a-8a70-7b3160ad47c4",
+    "text": "m. Your account will be upgraded by today EOD, once the issue is resolved.\nWe ackowledge the issue and apologize for the inconvenience you faced.",
+    "metadata": {
+      "id": "594f9f82-62b0-416a-8a70-7b3160ad47c4",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "55d691b6-2fca-4595-b525-e84494756d78",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: @Ritik_Roy\nnot EOD ,Next day also came but not upgraded to pro",
+    "metadata": {
+      "id": "55d691b6-2fca-4595-b525-e84494756d78",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c2252dea-e3d3-4489-9e63-b8130071a147",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: It’s resolved for me. I am now a Pro.",
+    "metadata": {
+      "id": "c2252dea-e3d3-4489-9e63-b8130071a147",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cce7b2a7-49a2-46ca-8a07-139afd613932",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: Hi\n@kirankiran10333\nlet me check this with the team and get back.",
+    "metadata": {
+      "id": "cce7b2a7-49a2-46ca-8a07-139afd613932",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3f7cb325-e697-4ecb-ab9d-d178a8843065",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: My account is not upgraded to PRO even on 3rd of Oct. I have maintained 10000+ NRV",
+    "metadata": {
+      "id": "3f7cb325-e697-4ecb-ab9d-d178a8843065",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "32f0841a-0800-4db3-aa77-380a696d656c",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: Hello Prashant,\nWe hear your concern. We are connecting with you via DM to assist you further.\nThank you.",
+    "metadata": {
+      "id": "32f0841a-0800-4db3-aa77-380a696d656c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3373becf-4168-4729-8a98-875390a7015b",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: The new criteria for becoming a pro is to maintain 10000rs in pots/savings accounts or 40000rs in FD or 20000rs in Superpots. Please correct me if I am wrong.",
+    "metadata": {
+      "id": "3373becf-4168-4729-8a98-875390a7015b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c2a9dc10-b483-4351-8b35-081d814f10d3",
+    "text": "if I am wrong.",
+    "metadata": {
+      "id": "c2a9dc10-b483-4351-8b35-081d814f10d3",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ed8e699c-d9b9-48e0-bd33-0890cf18e9bf",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: Welcome to the community\n@Prashant_Umredkar\n\nPlease ensure that you have met the updated criteria for upgrading to PRO",
+    "metadata": {
+      "id": "ed8e699c-d9b9-48e0-bd33-0890cf18e9bf",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1ca44535-4874-4810-bad2-8cc9c223ae56",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: @Bhoomika_Gowda\nI would like to Point out that I too am not PRO, where I should’ve been upgraded this month as per the criteria.",
+    "metadata": {
+      "id": "1ca44535-4874-4810-bad2-8cc9c223ae56",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "74b8c975-01fc-4a17-8396-b30cd83fa624",
+    "text": "Q: Its 3rd of March and my NRV is already above 10000. Still I am unable to upgrade my account to Pro.\nA: Hello Deveshu,\nWe hear your concern. We are connecting with you via DM to assist you further.\nThank you.",
+    "metadata": {
+      "id": "74b8c975-01fc-4a17-8396-b30cd83fa624",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "044bb548-0241-4aaa-9b03-190fe6b405bb",
+    "text": "Q: Hey there.\nI’ve been using Jupiter for a while now. I recently got a notification to redo my VKYC but when I try to start it, it just gives me an error and makes the app buggy.\nI reached out to Jupiter support yesterday and they asked me to wait a day and try again. But it’s still the same today.",
+    "metadata": {
+      "id": "044bb548-0241-4aaa-9b03-190fe6b405bb",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a8199c6d-9ea9-44e4-94d3-24b7ce9d4fcc",
+    "text": " day and try again. But it’s still the same today.\nAny idea or fix for this as it says I need to complete the process within the next 3 days?\nA: Same thing happening with me have you found any solution?",
+    "metadata": {
+      "id": "a8199c6d-9ea9-44e4-94d3-24b7ce9d4fcc",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b5a22c29-d180-4837-9b6b-88f2ee38f994",
+    "text": "Q: Hey there.\nI’ve been using Jupiter for a while now. I recently got a notification to redo my VKYC but when I try to start it, it just gives me an error and makes the app buggy.\nI reached out to Jupiter support yesterday and they asked me to wait a day and try again. But it’s still the same today.",
+    "metadata": {
+      "id": "b5a22c29-d180-4837-9b6b-88f2ee38f994",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "495b338d-bfc1-4d86-8d48-93662b7688d4",
+    "text": " day and try again. But it’s still the same today.\nAny idea or fix for this as it says I need to complete the process within the next 3 days?\nA: Hello Juned,\nWe regret the inconvenience caused. We are connecting with you via DM to assist you better. Thank you.",
+    "metadata": {
+      "id": "495b338d-bfc1-4d86-8d48-93662b7688d4",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "2d0fb862-f86f-4822-84eb-631297e5eddf",
+    "text": "Thank you.",
+    "metadata": {
+      "id": "2d0fb862-f86f-4822-84eb-631297e5eddf",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ef0cda5e-fc57-4295-9715-36308d85fe94",
+    "text": "Q: Hey there.\nI’ve been using Jupiter for a while now. I recently got a notification to redo my VKYC but when I try to start it, it just gives me an error and makes the app buggy.\nI reached out to Jupiter support yesterday and they asked me to wait a day and try again. But it’s still the same today.",
+    "metadata": {
+      "id": "ef0cda5e-fc57-4295-9715-36308d85fe94",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "de925048-35a8-40d2-8031-5ba60675ca62",
+    "text": " day and try again. But it’s still the same today.\nAny idea or fix for this as it says I need to complete the process within the next 3 days?\nA: Hello Ashish,\nWe hear your concern. We’re reaching out to you through DM to provide more assistance. Thank you for your understanding.",
+    "metadata": {
+      "id": "de925048-35a8-40d2-8031-5ba60675ca62",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "08cbb76f-5275-41a9-bfe9-00975b0c1596",
+    "text": "k you for your understanding.",
+    "metadata": {
+      "id": "08cbb76f-5275-41a9-bfe9-00975b0c1596",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7664679b-0e3f-42d8-9c42-4f7d789e0e43",
+    "text": "Q: Hey there.\nI’ve been using Jupiter for a while now. I recently got a notification to redo my VKYC but when I try to start it, it just gives me an error and makes the app buggy.\nI reached out to Jupiter support yesterday and they asked me to wait a day and try again. But it’s still the same today.",
+    "metadata": {
+      "id": "7664679b-0e3f-42d8-9c42-4f7d789e0e43",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "862537b7-0a01-40da-9466-1ca4878dad97",
+    "text": " day and try again. But it’s still the same today.\nAny idea or fix for this as it says I need to complete the process within the next 3 days?\nA: Looks like the issue is fixed now. I was able to submit my VKYC successfully a few minutes ago.",
+    "metadata": {
+      "id": "862537b7-0a01-40da-9466-1ca4878dad97",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "50f038a2-17e6-4de6-804f-a27180eeaff1",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "50f038a2-17e6-4de6-804f-a27180eeaff1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8b9bc9c6-c41e-4904-ab97-d67000d6c614",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: @Shawnpinto",
+    "metadata": {
+      "id": "8b9bc9c6-c41e-4904-ab97-d67000d6c614",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d9934a08-b938-4657-900d-e36e5a5d1b62",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "d9934a08-b938-4657-900d-e36e5a5d1b62",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a45dd1ff-f159-4d3c-9499-80fdc7c1a997",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Hello\n@codelock\n\nI believe it won’t require more than 5 days to r",
+    "metadata": {
+      "id": "a45dd1ff-f159-4d3c-9499-80fdc7c1a997",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ebf2fee2-d58b-4ecc-9cb4-92147fa7df09",
+    "text": "\n\nI believe it won’t require more than 5 days to resolve. The customer service representatives are likely stating this as part of the standard procedure.\nYour funds may be credited either today or tomorrow. I suggest periodically refreshing your account balance for updates.\nTagging\n@Samarth_Tiwari\n,",
+    "metadata": {
+      "id": "ebf2fee2-d58b-4ecc-9cb4-92147fa7df09",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ee7156c3-adf6-45e3-a5ce-ed8475760bb8",
+    "text": "unt balance for updates.\nTagging\n@Samarth_Tiwari\n, who is in the charge of POTS",
+    "metadata": {
+      "id": "ee7156c3-adf6-45e3-a5ce-ed8475760bb8",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ded6774e-1547-4b61-9ee6-9dca97e4613b",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "ded6774e-1547-4b61-9ee6-9dca97e4613b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1d79ef7d-81e0-4928-bcd3-f6ded26ec545",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: I understand, I have the same issue. It will be better if there’s",
+    "metadata": {
+      "id": "1d79ef7d-81e0-4928-bcd3-f6ded26ec545",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "104e682e-4694-4f96-8900-4a6ea4a32767",
+    "text": " have the same issue. It will be better if there’s an UI that will show that the money transfer is in progress and show a list of pots that we previously broke. Reason many think its sus if they are not able to see their pot and don’t know what to do.\nWell it’s assuring the response in Jupiter commu",
+    "metadata": {
+      "id": "104e682e-4694-4f96-8900-4a6ea4a32767",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e2472282-4e63-46a7-a7f5-ac25da320072",
+    "text": ".\nWell it’s assuring the response in Jupiter community is quick. Thanks I sure was going to raise one ticket but not anymore after reading your answer.",
+    "metadata": {
+      "id": "e2472282-4e63-46a7-a7f5-ac25da320072",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ae48de42-a2af-4f27-b919-ed98b0de21d7",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "ae48de42-a2af-4f27-b919-ed98b0de21d7",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cb0db7cf-c326-4e6a-ba09-9f020fa408c5",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: It is possible to view the transactions in the pot account. If yo",
+    "metadata": {
+      "id": "cb0db7cf-c326-4e6a-ba09-9f020fa408c5",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3d1f94ad-62b8-4b3b-ba6b-aedd8a36b831",
+    "text": "to view the transactions in the pot account. If you open the search bar and type Transactions it will show all your previous transactions, the one from pot should also be there its transaction name will start with “IFN/…” .\nHope it helps.",
+    "metadata": {
+      "id": "3d1f94ad-62b8-4b3b-ba6b-aedd8a36b831",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5ff17b3a-c286-4717-ad73-ac4a47a51a43",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "5ff17b3a-c286-4717-ad73-ac4a47a51a43",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "893faf51-3d2b-4dd6-823c-ae76038712e1",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: I think there’s a bug. When I see the recent transaction, I can’t",
+    "metadata": {
+      "id": "893faf51-3d2b-4dd6-823c-ae76038712e1",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c941f6bb-571c-4d76-987d-540501b5e120",
+    "text": " a bug. When I see the recent transaction, I can’t find any transaction starting with “IFN”. But when I try to contact support it shows all the transaction, including the one which has “IFN” as you told.\nOnly thing is there’s no “Reference #”(mentioned as NA) assigned to the transaction and the stat",
+    "metadata": {
+      "id": "c941f6bb-571c-4d76-987d-540501b5e120",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "bb94196b-e988-4540-8d4f-f506787a6200",
+    "text": "ed as NA) assigned to the transaction and the status is “INITIATED” thats all.",
+    "metadata": {
+      "id": "bb94196b-e988-4540-8d4f-f506787a6200",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "98d6c7b7-c19b-4834-b263-4c7620e7ff88",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "98d6c7b7-c19b-4834-b263-4c7620e7ff88",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "89f38226-1e1d-409d-a9c9-145daaa68023",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Just to be sure I was referencing to the transactions in the sear",
+    "metadata": {
+      "id": "89f38226-1e1d-409d-a9c9-145daaa68023",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "03dc010e-0187-4e6d-9d0b-96c35d6cb849",
+    "text": " I was referencing to the transactions in the search results not the normal one.\nMore details on this post:\n(Ongoing) Lab test #12 - Search bar on Home Page\nJupiter labs\n@Shweta\nI have an interesting observation regarding the search results. In the search bar when I search for transactions keyword i",
+    "metadata": {
+      "id": "03dc010e-0187-4e6d-9d0b-96c35d6cb849",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c9402db9-82f9-4985-92a8-ca76a407d55b",
+    "text": "earch bar when I search for transactions keyword it shows me a table of transactions, however it is having transaction records of both(main and pots) accounts. [IMG_1466] [IMG_1467] There will be confusion in transactions as the account no is not mentioned. I think its a bug, but a very insightful b",
+    "metadata": {
+      "id": "c9402db9-82f9-4985-92a8-ca76a407d55b",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ca6f12a7-f0a0-40db-b60c-d3610d28a9c3",
+    "text": "tioned. I think its a bug, but a very insightful bug which shows the inner mechanics of pots and super pots I can even see the interest amounts paid for my super p…\nOr\nAn example here :\nIf you cannot see there as well then I think the customer support will be able to help you.",
+    "metadata": {
+      "id": "ca6f12a7-f0a0-40db-b60c-d3610d28a9c3",
+      "chunk_index": 4,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "fb545d3d-8bf0-40f2-8921-8bdd97a93e27",
+    "text": "t will be able to help you.",
+    "metadata": {
+      "id": "fb545d3d-8bf0-40f2-8921-8bdd97a93e27",
+      "chunk_index": 5,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "46ced73d-a218-4c5c-ac8a-6e5af096f3e4",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "46ced73d-a218-4c5c-ac8a-6e5af096f3e4",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "80c5276f-a655-4dd1-8517-ff5287124c31",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Thanks\n@Abhishek_Ulayil\n, I didn’t know there was another way to ",
+    "metadata": {
+      "id": "80c5276f-a655-4dd1-8517-ff5287124c31",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8056209e-a3fc-496a-a18a-b75de52ad03f",
+    "text": "k_Ulayil\n, I didn’t know there was another way to check these transactions. It’s tricky. Hope there will be clearer way to access these pot transacs later in the latest updates.",
+    "metadata": {
+      "id": "8056209e-a3fc-496a-a18a-b75de52ad03f",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "552a873e-a6b9-4777-a4ca-53f96c084135",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "552a873e-a6b9-4777-a4ca-53f96c084135",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "81d96981-1cab-4384-a499-aae76d977f5b",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: I am having the same issue and it has been 5 days , the customer ",
+    "metadata": {
+      "id": "81d96981-1cab-4384-a499-aae76d977f5b",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f1a1d47b-9515-4a1a-a4a2-8ad210c9f3db",
+    "text": " same issue and it has been 5 days , the customer service ppl keep on saying soon soon asap",
+    "metadata": {
+      "id": "f1a1d47b-9515-4a1a-a4a2-8ad210c9f3db",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "07597a4a-c03f-4625-aabd-8d2e5b033571",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "07597a4a-c03f-4625-aabd-8d2e5b033571",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8f1692d3-8ba1-4800-8aa6-86cd42d68726",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: @Akshaj_Joshy\nhave you been provided a ticket# for the issue?",
+    "metadata": {
+      "id": "8f1692d3-8ba1-4800-8aa6-86cd42d68726",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "02ff13b5-c982-4abd-ab3f-ad6ee3174be2",
+    "text": "ave you been provided a ticket# for the issue?",
+    "metadata": {
+      "id": "02ff13b5-c982-4abd-ab3f-ad6ee3174be2",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5f2e955f-0fb3-47c7-8c97-d47b811f5865",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "5f2e955f-0fb3-47c7-8c97-d47b811f5865",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4afdefa6-37de-4278-8d83-c8e8430798aa",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Yes I have it’s been 2weeks still haven’t received a solution",
+    "metadata": {
+      "id": "4afdefa6-37de-4278-8d83-c8e8430798aa",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "0dc2809a-6cca-4f0b-9c6b-5857e5ce6d2a",
+    "text": " been 2weeks still haven’t received a solution",
+    "metadata": {
+      "id": "0dc2809a-6cca-4f0b-9c6b-5857e5ce6d2a",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "114af268-440c-4396-9abd-dc575528f9df",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "114af268-440c-4396-9abd-dc575528f9df",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c72a83f8-1c0c-4748-80c1-d5329cb1f544",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: I am sure you are receiving regular updates from the team. Can al",
+    "metadata": {
+      "id": "c72a83f8-1c0c-4748-80c1-d5329cb1f544",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7c938697-666d-4909-a4ba-4ffba196514f",
+    "text": "re receiving regular updates from the team. Can also share the ticket number here?",
+    "metadata": {
+      "id": "7c938697-666d-4909-a4ba-4ffba196514f",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d4c7bbf8-e110-40b9-b3db-83a5b8851712",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "d4c7bbf8-e110-40b9-b3db-83a5b8851712",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4d0fbebf-f5ad-4a74-9c4f-6e3c06f28fe1",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: 2802241, I contact them every 2days, they say 2 more days.",
+    "metadata": {
+      "id": "4d0fbebf-f5ad-4a74-9c4f-6e3c06f28fe1",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "88086cd9-b3e7-4285-8949-c73cd7c76588",
+    "text": "act them every 2days, they say 2 more days.",
+    "metadata": {
+      "id": "88086cd9-b3e7-4285-8949-c73cd7c76588",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "90c03eac-b7b9-43a9-a46d-3756634047e8",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "90c03eac-b7b9-43a9-a46d-3756634047e8",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "62ac3c38-1fa6-42c2-819f-56d968155e97",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: @Nikhil_Godbole\nrequest you to have someone from the team look in",
+    "metadata": {
+      "id": "62ac3c38-1fa6-42c2-819f-56d968155e97",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "31992a31-7f2e-4bf3-9158-40d74fcdd1b3",
+    "text": "\nrequest you to have someone from the team look into this.",
+    "metadata": {
+      "id": "31992a31-7f2e-4bf3-9158-40d74fcdd1b3",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4802469d-54b8-4267-a3c8-3264bf3a23e6",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "4802469d-54b8-4267-a3c8-3264bf3a23e6",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5723b324-888f-4f3c-ac84-5c34f4ed9e2b",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Hopefully I get the amount back",
+    "metadata": {
+      "id": "5723b324-888f-4f3c-ac84-5c34f4ed9e2b",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5fe29f8b-3123-4419-a04a-c2acc957938e",
+    "text": " the amount back",
+    "metadata": {
+      "id": "5fe29f8b-3123-4419-a04a-c2acc957938e",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4d2226d1-128a-41b3-90f5-af4275c367b2",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "4d2226d1-128a-41b3-90f5-af4275c367b2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1bb4e474-5a7f-4d56-bff2-43e7689ebf41",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: @yagnesh01\nsir i am facing same issue and reply from team my tick",
+    "metadata": {
+      "id": "1bb4e474-5a7f-4d56-bff2-43e7689ebf41",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cf5c2f0d-9a8c-42c0-8ea7-818ebdb7679e",
+    "text": "i am facing same issue and reply from team my ticket no is 3629829 will you plz look into the matter !",
+    "metadata": {
+      "id": "cf5c2f0d-9a8c-42c0-8ea7-818ebdb7679e",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "98488a69-6de1-473e-a15e-630564feb5ac",
+    "text": "Q: So I had 1 pot with 5000 and decided to break it, after it was destroyed, no money was credited in my account, I got email that pot was deleted with a transaction id in it , pot is also not visible now in pots section so basically my 5000 are just gone ,\nPlease help me I am in urgent need of that",
+    "metadata": {
+      "id": "98488a69-6de1-473e-a15e-630564feb5ac",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "106348c2-eea2-46c2-aa82-49f3a8c473f0",
+    "text": " gone ,\nPlease help me I am in urgent need of that money, i tried raising a support request but they said it would take 5+ days which is unacceptable , how can money disappear from my account like that? Reference ticket I’d 2560122\nA: Hello Rohan,\nWe hear your concern. We are connecting with you via",
+    "metadata": {
+      "id": "106348c2-eea2-46c2-aa82-49f3a8c473f0",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ba01f2d2-9b90-4f37-b203-42227b998541",
+    "text": " hear your concern. We are connecting with you via DM to assist you further. Thank you.",
+    "metadata": {
+      "id": "ba01f2d2-9b90-4f37-b203-42227b998541",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a9aee2eb-d1b2-4f60-af7d-0135041e717c",
+    "text": "Q: Hi,\nI want to apply for South Korea Visa. They need Physical Bank Account statement which is attested by a bank officer.\nSo is there any way to get the Jupiter Bank Account Statement attested at Federal Bank branch.\nAny help will be appreciated.\nA: You can visit a nearby Federal bank branch.",
+    "metadata": {
+      "id": "a9aee2eb-d1b2-4f60-af7d-0135041e717c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "abd1be55-2868-4574-9530-5bd1f3afb0a8",
+    "text": ": You can visit a nearby Federal bank branch.",
+    "metadata": {
+      "id": "abd1be55-2868-4574-9530-5bd1f3afb0a8",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e4d491ee-0bc8-4ea5-b886-a5f55435f458",
+    "text": "Q: Hi,\nI want to apply for South Korea Visa. They need Physical Bank Account statement which is attested by a bank officer.\nSo is there any way to get the Jupiter Bank Account Statement attested at Federal Bank branch.\nAny help will be appreciated.\nA: @Uday_Singh\nYes. You need to visit the nearest F",
+    "metadata": {
+      "id": "e4d491ee-0bc8-4ea5-b886-a5f55435f458",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "40259ef9-1e8f-4599-93cf-3dce1d9ffb1e",
+    "text": ": @Uday_Singh\nYes. You need to visit the nearest Federal Bank branch and request for the same. This is a chargeable service by the Bank.\nList of Bank Branches can be searched on this link Federal Bank ATM & Branch Locator | Personal Banking Services in India",
+    "metadata": {
+      "id": "40259ef9-1e8f-4599-93cf-3dce1d9ffb1e",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "80eccf96-3314-4094-8891-149824b722fb",
+    "text": "in India",
+    "metadata": {
+      "id": "80eccf96-3314-4094-8891-149824b722fb",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "026a3045-36f2-4da9-9724-f36809147fd7",
+    "text": "Q: Hi,\nI want to apply for South Korea Visa. They need Physical Bank Account statement which is attested by a bank officer.\nSo is there any way to get the Jupiter Bank Account Statement attested at Federal Bank branch.\nAny help will be appreciated.\nA: Hello Uday,\nWe understand that you are requestin",
+    "metadata": {
+      "id": "026a3045-36f2-4da9-9724-f36809147fd7",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5353f9f9-a4aa-4e54-b229-0f1c61269e13",
+    "text": ": Hello Uday,\nWe understand that you are requesting for an Attested Bank account statement. You will be able to avail the same by visiting the branch. We shall connect with you via DM to assist you further with this request. Thank you.",
+    "metadata": {
+      "id": "5353f9f9-a4aa-4e54-b229-0f1c61269e13",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9b0f7e2c-563e-416f-ba1b-9dc1200e3606",
+    "text": "Q: Hi Team,\nI just want to share my experience with digi gold ,started one SIP on 17th july and due to some technical issues it’s now showing my exact Sip’s and same has been reported14 days ago and they said it will be fixed then said…\nThis cannot be fixed on digigold application but you will recei",
+    "metadata": {
+      "id": "9b0f7e2c-563e-416f-ba1b-9dc1200e3606",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5c8da7dd-f0ed-4311-93d0-42338f3edb4b",
+    "text": "e fixed on digigold application but you will receive statement within 24 hr and 10 days passed no account statement recieves nor received any resolution.\nI have tried calling from week no one picking up call and raised issue over email. No reply came from Digi gold team.\nRegards\nAjay Malik\nA: Hi Aja",
+    "metadata": {
+      "id": "5c8da7dd-f0ed-4311-93d0-42338f3edb4b",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e4c9357c-738f-4c67-8c90-d14bd15e08b4",
+    "text": " from Digi gold team.\nRegards\nAjay Malik\nA: Hi Ajay,\nWe understand your concern and sincerely apologize for the inconvenience. We’ll be reaching out to you via direct message to discuss this further.\nThank you.",
+    "metadata": {
+      "id": "e4c9357c-738f-4c67-8c90-d14bd15e08b4",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5106a149-19a3-41ba-85f1-9e36930fb96a",
+    "text": "Q: Hello team, yesterday my registered SIM card got thrased, now I am not able to update my phone number and get into the app.\nKindly help me to access my jupiter app. It’s really really important to me.\nA: Please send an email to support@jupiter.money and describe the issue in detail. They will be ",
+    "metadata": {
+      "id": "5106a149-19a3-41ba-85f1-9e36930fb96a",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4307ee88-f9ca-4d22-9d42-fcde5cb7ee92",
+    "text": "ey and describe the issue in detail. They will be able to guide you on the next steps.",
+    "metadata": {
+      "id": "4307ee88-f9ca-4d22-9d42-fcde5cb7ee92",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c1b06691-512c-46cf-8d04-be261853f3d0",
+    "text": "Q: Hi please send me account statement, I lost my phone, need to verify some transactions.\nA: Hello Jupiter, when can I receive the stament for 30 days?",
+    "metadata": {
+      "id": "c1b06691-512c-46cf-8d04-be261853f3d0",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6845d1b8-31d2-443e-8830-b5b234481601",
+    "text": "Q: Hi please send me account statement, I lost my phone, need to verify some transactions.\nA: You can take duplicate sim from your service provider, and your statement sent to your email id every month… Check your email.",
+    "metadata": {
+      "id": "6845d1b8-31d2-443e-8830-b5b234481601",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "0796c5cf-ccfe-42a3-b152-84d1dbee99fb",
+    "text": "Q: Hi please send me account statement, I lost my phone, need to verify some transactions.\nA: Hello Amit.\nWe understand your concern. We will reach out to you via DM to assist you further.\nThank you.",
+    "metadata": {
+      "id": "0796c5cf-ccfe-42a3-b152-84d1dbee99fb",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "2f7009ac-e9b6-40a3-997c-5c830e74c721",
+    "text": "Q: Hi please send me account statement, I lost my phone, need to verify some transactions.\nA: Moreover I am only laptop enabled now, can not use app, or is it available for windows?",
+    "metadata": {
+      "id": "2f7009ac-e9b6-40a3-997c-5c830e74c721",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7469a281-a6de-4b5f-8725-5ba76501eb60",
+    "text": "Q: Iam trying to make transactions using my Jupiter debit card,but it is getting failed again and again. I checked that all the transactions settings are enabled. When i contacted customer support in app, they are saying that the transaction is of restricted category,and not allowing to make payment",
+    "metadata": {
+      "id": "7469a281-a6de-4b5f-8725-5ba76501eb60",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "0e1011b6-5903-4404-b562-cac1a5d78360",
+    "text": "stricted category,and not allowing to make payment. But actually that transaction was regarding bill payment. I pay my bills in mobikwik app using Jupiter debit (every month). Earlier every month i used to make transactions,but now iam not able to make.\nPlease try to fix this debit card error as soo",
+    "metadata": {
+      "id": "0e1011b6-5903-4404-b562-cac1a5d78360",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b8d658b7-f8ec-433c-b8b6-4cdbf03fed2f",
+    "text": "ke.\nPlease try to fix this debit card error as soon as possible.\nA: @Shawnpinto",
+    "metadata": {
+      "id": "b8d658b7-f8ec-433c-b8b6-4cdbf03fed2f",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d772b2c2-60b6-413b-8eb2-a1ebd33212fc",
+    "text": "Q: Iam trying to make transactions using my Jupiter debit card,but it is getting failed again and again. I checked that all the transactions settings are enabled. When i contacted customer support in app, they are saying that the transaction is of restricted category,and not allowing to make payment",
+    "metadata": {
+      "id": "d772b2c2-60b6-413b-8eb2-a1ebd33212fc",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "94d84e14-e2b4-4a88-87ce-6589d9667581",
+    "text": "stricted category,and not allowing to make payment. But actually that transaction was regarding bill payment. I pay my bills in mobikwik app using Jupiter debit (every month). Earlier every month i used to make transactions,but now iam not able to make.\nPlease try to fix this debit card error as soo",
+    "metadata": {
+      "id": "94d84e14-e2b4-4a88-87ce-6589d9667581",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "403a9639-6f3d-4d60-8165-65e1c74e4489",
+    "text": "ke.\nPlease try to fix this debit card error as soon as possible.\nA: It may be some temporary technical issue. I suggest to disable all transactions category (like offline, online, pos) and enable once again. Also, please double check if there is sufficient balance in your Jupiter main account.\nAlso,",
+    "metadata": {
+      "id": "403a9639-6f3d-4d60-8165-65e1c74e4489",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "39baef91-21b4-4b32-ae40-a06b38a78212",
+    "text": "icient balance in your Jupiter main account.\nAlso, suggest you to create a support ticket by mailing to support@jupiter.money\nTagging\n@Nikhil_Godbole",
+    "metadata": {
+      "id": "39baef91-21b4-4b32-ae40-a06b38a78212",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "26849ac6-7535-41dc-a182-f60ef179a930",
+    "text": "Q: Iam trying to make transactions using my Jupiter debit card,but it is getting failed again and again. I checked that all the transactions settings are enabled. When i contacted customer support in app, they are saying that the transaction is of restricted category,and not allowing to make payment",
+    "metadata": {
+      "id": "26849ac6-7535-41dc-a182-f60ef179a930",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "87845796-159f-42d2-840f-69b9e1537a76",
+    "text": "stricted category,and not allowing to make payment. But actually that transaction was regarding bill payment. I pay my bills in mobikwik app using Jupiter debit (every month). Earlier every month i used to make transactions,but now iam not able to make.\nPlease try to fix this debit card error as soo",
+    "metadata": {
+      "id": "87845796-159f-42d2-840f-69b9e1537a76",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9cb5df81-dc75-4afe-b125-29212ade632c",
+    "text": "ke.\nPlease try to fix this debit card error as soon as possible.\nA: @Vaibhav_Jain\nthis is my assumption but there definitely seems to be an issue in using Jupiter on MobiKwik. The card does face issues and adding the account just does not work.",
+    "metadata": {
+      "id": "9cb5df81-dc75-4afe-b125-29212ade632c",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f02122c5-2252-4913-99a4-fa59142ebcba",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Mode of transaction?\nPlatform of transactions (paytm, phonePe…)?\nYour bank name?\nReciever Bank name?\nHow ",
+    "metadata": {
+      "id": "f02122c5-2252-4913-99a4-fa59142ebcba",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4bfc765a-3a85-470a-999b-5dfdd2e108f7",
+    "text": "honePe…)?\nYour bank name?\nReciever Bank name?\nHow many days passed & Amount?\nExplain story in short…\nDo u have registed FIR? (Most Important)",
+    "metadata": {
+      "id": "4bfc765a-3a85-470a-999b-5dfdd2e108f7",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4607fea1-3028-4ebf-b004-c48ed737f5c7",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Mode of transaction: bank transfer\nPlatform: Jupiter account and icici\nBank name: Jupiter and icici\nRecei",
+    "metadata": {
+      "id": "4607fea1-3028-4ebf-b004-c48ed737f5c7",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9db56b4b-d8f2-4a80-9324-43343a41983e",
+    "text": "count and icici\nBank name: Jupiter and icici\nReceiver bank: icici and yes Bank\nHow many days passed and amount: less than 24hrs, total 6L\nI got a message on telegram for online part time job. They asked to complete basic click and submit tasks which I did…they gave profit for 2 days… yesterday while",
+    "metadata": {
+      "id": "9db56b4b-d8f2-4a80-9324-43343a41983e",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "98980c94-b3ec-4281-b32b-29372724ab49",
+    "text": "I did…they gave profit for 2 days… yesterday while doing tasks they have regularly made by balance negative and asked to clear it… so total 6L transferred and lost… now they are asking 10L to get back all the amount\n.\nI have filed a cyber complaint with acknowledgement I’d 22404230002585",
+    "metadata": {
+      "id": "98980c94-b3ec-4281-b32b-29372724ab49",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "31710287-0714-4d6c-904d-fbd6398af64a",
+    "text": "ith acknowledgement I’d 22404230002585",
+    "metadata": {
+      "id": "31710287-0714-4d6c-904d-fbd6398af64a",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "65a89ee6-3367-4fb0-8196-5d12d77d5e74",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Seriously are you id*ot ? What can i see you are more educated, then why are you trapped in this type fak",
+    "metadata": {
+      "id": "65a89ee6-3367-4fb0-8196-5d12d77d5e74",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e6efd5d1-f5da-44b4-9919-7abda67eb4f6",
+    "text": "ducated, then why are you trapped in this type fake job scam ?\nFor job you don’t need any money to give them in specially when it was a online job .\nFor some job they’re taken from you some lower amount security deposit, for laptop or other things they only gives you. No such other things\nAs per my ",
+    "metadata": {
+      "id": "e6efd5d1-f5da-44b4-9919-7abda67eb4f6",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "662bfb2c-258f-4fa3-9a84-acc7c11872f5",
+    "text": "ey only gives you. No such other things\nAs per my knowledge, u don’t receive the money back, bcz they are too much inteligent than police, and our police are so lezy to work.\nBut i hope you for positive",
+    "metadata": {
+      "id": "662bfb2c-258f-4fa3-9a84-acc7c11872f5",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "882c3921-546d-4d1a-9a0b-6edfe775993c",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: I understand…don’t know why my brain didn’t work\nWhat steps I can take",
+    "metadata": {
+      "id": "882c3921-546d-4d1a-9a0b-6edfe775993c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ba96ebf9-7081-4937-bbb0-15d860e15d30",
+    "text": "teps I can take",
+    "metadata": {
+      "id": "ba96ebf9-7081-4937-bbb0-15d860e15d30",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "35a214b0-3580-43bb-89ec-0b52d4310961",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Man, raise a dispute through Jupiter. Do it at the earliest. DM me I will help you out.",
+    "metadata": {
+      "id": "35a214b0-3580-43bb-89ec-0b52d4310961",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "40d27b47-1742-412b-8351-f4e92138816a",
+    "text": "iest. DM me I will help you out.",
+    "metadata": {
+      "id": "40d27b47-1742-412b-8351-f4e92138816a",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "62ee5533-52e5-4c72-a7c5-5fdb068997ec",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: In this situation don’t loose hope that you can’t recover. You will recover your money but must need go r",
+    "metadata": {
+      "id": "62ee5533-52e5-4c72-a7c5-5fdb068997ec",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6fe62f91-90f7-4810-8de9-32cabdfff3a6",
+    "text": "er. You will recover your money but must need go right way. Sometimes this is time consuming but you can get you money back. Just don’t loose hope.\nCollect all possible proofs of chat transfer and group still keep contacted with them, don’t show them that you know that you trapped.\nTry to contact Cy",
+    "metadata": {
+      "id": "6fe62f91-90f7-4810-8de9-32cabdfff3a6",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "af1c8a52-81d5-4f55-a81a-17936a07d217",
+    "text": " that you know that you trapped.\nTry to contact Cyber Crime Helpline is 1930 (they will not answer but keep trying\nBank transfer - Means UPI / RTGS / IMPS???\n1 - File FIR (most most Important ,otherwise u can’t recover)\n2- CONTACT your bank tell about this (they will ask copy of FIR give them if you",
+    "metadata": {
+      "id": "af1c8a52-81d5-4f55-a81a-17936a07d217",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "131b8515-72ac-445f-9c7d-5ea9e6b8cee6",
+    "text": "t this (they will ask copy of FIR give them if you have otherwise tell them you will provide it within some hours) - also keep proof of that you informed to bank.\nAlso vist branch and submit written request (click photo of form).\n3- go to Receiver’s Bank Branch & meet to Manager give them FIR Copy a",
+    "metadata": {
+      "id": "131b8515-72ac-445f-9c7d-5ea9e6b8cee6",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d5372083-d99c-413f-9416-4a5e9304f713",
+    "text": "Bank Branch & meet to Manager give them FIR Copy and ask to freeze reciever account. (For better help also sunbmit request written on paper)\nIf mangers will not help you then ask to give reply in written. (Please don’t force them, just request them)\n4- if still not helped by manger then send mail to",
+    "metadata": {
+      "id": "d5372083-d99c-413f-9416-4a5e9304f713",
+      "chunk_index": 4,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "973a65a2-edd4-4d49-a021-f931e3b016fe",
+    "text": "4- if still not helped by manger then send mail to recievers banks nodal officer with PROOF & FIR Copy.\nIf bank didn’t ready to freeze then, you can further contact with RBI - BECAUSE YOU AFTER CONTACTED WITH BANKS THEY HAVE ALSO NEED TO TAKE RESPONSIBILITY OF THIS SITUATION.",
+    "metadata": {
+      "id": "973a65a2-edd4-4d49-a021-f931e3b016fe",
+      "chunk_index": 5,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e89e1158-1d14-42c8-8694-e3b82dbdc027",
+    "text": "IBILITY OF THIS SITUATION.",
+    "metadata": {
+      "id": "e89e1158-1d14-42c8-8694-e3b82dbdc027",
+      "chunk_index": 6,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a6d1856f-8be0-4360-834f-8df8d03f3e47",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: At that moment, brain won’t work like that:disappointed:. Feeling so bad for that guy.",
+    "metadata": {
+      "id": "a6d1856f-8be0-4360-834f-8df8d03f3e47",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "250bcf18-a8a5-4364-81ea-02489e5f0539",
+    "text": ":. Feeling so bad for that guy.",
+    "metadata": {
+      "id": "250bcf18-a8a5-4364-81ea-02489e5f0539",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b48630f9-a3ef-4cb4-93b9-f6107a8836c5",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Its all about situation. I know because i also suffered from in 2020 (but it just 1k) and that i was not ",
+    "metadata": {
+      "id": "b48630f9-a3ef-4cb4-93b9-f6107a8836c5",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8160ee2c-287e-4d7f-b4a0-780c9678f030",
+    "text": " from in 2020 (but it just 1k) and that i was not aware about how to recover money from online froud.",
+    "metadata": {
+      "id": "8160ee2c-287e-4d7f-b4a0-780c9678f030",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "fcb844b3-54d8-4eb1-b940-1fcf2f5ba3c3",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Hey, Its everything about situation and normal human psychology, its not about how much you educated.\nRec",
+    "metadata": {
+      "id": "fcb844b3-54d8-4eb1-b940-1fcf2f5ba3c3",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "46589768-99d0-441e-9ffd-cc19bdb8c67a",
+    "text": "ychology, its not about how much you educated.\nRecovery of money is possible, you should not reply in this way. (Negatively)",
+    "metadata": {
+      "id": "46589768-99d0-441e-9ffd-cc19bdb8c67a",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "608a6489-1844-4cd0-87b1-bef22daeee8b",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: is chargeback possible in this case ?? i have never suffered with such things feeling sad for op 6lakh is",
+    "metadata": {
+      "id": "608a6489-1844-4cd0-87b1-bef22daeee8b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c19ee5f1-1635-490b-8f58-b7efa316f176",
+    "text": "fered with such things feeling sad for op 6lakh is too much to loose in scam .",
+    "metadata": {
+      "id": "c19ee5f1-1635-490b-8f58-b7efa316f176",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6b999641-68fe-4729-87de-f84d3ad4ff58",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Went to local police station, they said since you have filed cybercrime already no need of FIR",
+    "metadata": {
+      "id": "6b999641-68fe-4729-87de-f84d3ad4ff58",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "571c842c-ef8d-40a1-9efe-1823e952d00f",
+    "text": "filed cybercrime already no need of FIR",
+    "metadata": {
+      "id": "571c842c-ef8d-40a1-9efe-1823e952d00f",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "bf62b01f-bcc5-4259-8436-1f20e6277df1",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: @SHEIKH_AZHARUDDIN\nYes, they are right. If you already filed complaint on cybercrime website.\nDownload co",
+    "metadata": {
+      "id": "bf62b01f-bcc5-4259-8436-1f20e6277df1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3caab4f5-6762-4c96-a7d1-f30bb0cc23c9",
+    "text": "filed complaint on cybercrime website.\nDownload copy ask to freez receivers bank account by contacting with bank. Bank nodal officer. Via mail and call.\nIs it UPI OR IMPS check your bank statement?",
+    "metadata": {
+      "id": "3caab4f5-6762-4c96-a7d1-f30bb0cc23c9",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "935a249e-3ca4-40eb-af4b-84cd82cfb54e",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Imps",
+    "metadata": {
+      "id": "935a249e-3ca4-40eb-af4b-84cd82cfb54e",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f7eaef85-3fbc-4a8b-9169-509dcbfafd37",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Do you know that person account details like account number? If yes go to that bank and explain the whole",
+    "metadata": {
+      "id": "f7eaef85-3fbc-4a8b-9169-509dcbfafd37",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "0fee0695-7071-4082-8133-3a0d7cd4b181",
+    "text": "mber? If yes go to that bank and explain the whole scenario and ask him to freeze the account.",
+    "metadata": {
+      "id": "0fee0695-7071-4082-8133-3a0d7cd4b181",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e3389efd-4499-4de2-a68b-9ba751c695e0",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: It’s just about greed, I still don’t understand how someone trust anybody in this virtual world. Tbh, I’m",
+    "metadata": {
+      "id": "e3389efd-4499-4de2-a68b-9ba751c695e0",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e42ccb1e-16b0-472c-8d3b-774d6c5b41b1",
+    "text": "eone trust anybody in this virtual world. Tbh, I’m never gonna give a single penny to anyone like this.",
+    "metadata": {
+      "id": "e42ccb1e-16b0-472c-8d3b-774d6c5b41b1",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "d948404c-6f3a-4743-bb6f-3e460e39ec01",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Did you tried to contact with Receiver’s Bank?",
+    "metadata": {
+      "id": "d948404c-6f3a-4743-bb6f-3e460e39ec01",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a0f43593-7618-45a0-9594-b2a2fb097f1c",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Sent a mail to the receiver bank …",
+    "metadata": {
+      "id": "a0f43593-7618-45a0-9594-b2a2fb097f1c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ab92db59-f33a-4b11-900a-e6a7a32b5b4b",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: Also try to contact with customer care via call. As much as possible reciever bank should take action.\nI ",
+    "metadata": {
+      "id": "ab92db59-f33a-4b11-900a-e6a7a32b5b4b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4a235f4e-2f1d-483f-92aa-ca97afe6b941",
+    "text": "h as possible reciever bank should take action.\nI am forcing for this Because, you transferred 6 Lakhs and still 24 hrs not completed.\nBanks have holiday today.\nSo UPI have 1 lakh limit/day\nIf if they tried to cash withdraw via any way\nthen police can easily spot location.\nIf they tried IMPS/ RTGS t",
+    "metadata": {
+      "id": "4a235f4e-2f1d-483f-92aa-ca97afe6b941",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3e633958-c6ac-4d12-a5a7-0aa1907d6bfb",
+    "text": "n easily spot location.\nIf they tried IMPS/ RTGS then still Banks can track you money.\nIF RECEIVER’S BANK WILL TAKE YOUR COMPLAINT SERIOUSLY THEN, THERE WILL BE HIGH CHANCE FOR GET MONEY BACK…",
+    "metadata": {
+      "id": "3e633958-c6ac-4d12-a5a7-0aa1907d6bfb",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cebe7482-4f73-47aa-a5ed-3973b78fed54",
+    "text": "Q: Hello team,\nI have been victim of online job scam and I transferred money to the victims account…already reported in cybercrime but please help immediately with the process from bank side…\nA: POST Recievers BANK IFSC CODE - WE locat branch.",
+    "metadata": {
+      "id": "cebe7482-4f73-47aa-a5ed-3973b78fed54",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "2db3b14d-12be-4234-b769-52f5a347693b",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "2db3b14d-12be-4234-b769-52f5a347693b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "52600026-e476-48a3-a608-9af7f8615917",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: @Logeshkumar\nI am sure this has been frustrating period and ",
+    "metadata": {
+      "id": "52600026-e476-48a3-a608-9af7f8615917",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "461ad6de-8d66-4a1a-b509-fa92d60ebf35",
+    "text": "ar\nI am sure this has been frustrating period and experience for you. The community is not equipped with the information or the insight to guide on this. While you have already mentioned that you have been following up with the customer support team, the only way to get the issue resolved is communi",
+    "metadata": {
+      "id": "461ad6de-8d66-4a1a-b509-fa92d60ebf35",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9ee8cc89-fd14-44be-8d09-c802ef4d69ff",
+    "text": " the only way to get the issue resolved is communicate with them and fraud investigation team and ensure you do not hold back any information that can help them resolve this issue for you.",
+    "metadata": {
+      "id": "9ee8cc89-fd14-44be-8d09-c802ef4d69ff",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "bea80193-1c95-4bd1-9208-8416fc90fd5f",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "bea80193-1c95-4bd1-9208-8416fc90fd5f",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8020afdb-5a82-4e57-a938-4d81200ac654",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: How many days it will take to resolve my problem?",
+    "metadata": {
+      "id": "8020afdb-5a82-4e57-a938-4d81200ac654",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6efcb15f-2a80-47c5-bc86-a79ff600a064",
+    "text": "ays it will take to resolve my problem?",
+    "metadata": {
+      "id": "6efcb15f-2a80-47c5-bc86-a79ff600a064",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ebb08678-01b7-4fdd-959e-545ddb96da23",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "ebb08678-01b7-4fdd-959e-545ddb96da23",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "580fb254-fdd8-43eb-809f-aa5fab8a584e",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: @Logeshkumar\nin the threads that we have read so far, the re",
+    "metadata": {
+      "id": "580fb254-fdd8-43eb-809f-aa5fab8a584e",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c45846b3-0c74-42de-812b-57e8c06d6c6a",
+    "text": "ar\nin the threads that we have read so far, the resolution of the issue does take time. Like I said, we do not have the insight on the exact details",
+    "metadata": {
+      "id": "c45846b3-0c74-42de-812b-57e8c06d6c6a",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "39355eef-2925-4d9c-8d37-8404c789bbf2",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "39355eef-2925-4d9c-8d37-8404c789bbf2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6751f775-183b-4274-8633-21c56f0fff9e",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: Is there any immediate solution for resolve my problem becau",
+    "metadata": {
+      "id": "6751f775-183b-4274-8633-21c56f0fff9e",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c02fe128-3c36-4418-be5a-da966186439d",
+    "text": "ny immediate solution for resolve my problem because I have some money issue",
+    "metadata": {
+      "id": "c02fe128-3c36-4418-be5a-da966186439d",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "7d6cf672-483b-4f56-8151-e8192c9750cd",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "7d6cf672-483b-4f56-8151-e8192c9750cd",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "085cb58e-67b1-468b-933c-4f5df6ee4d2d",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: You received a mail from Jupiter risk management team, they ",
+    "metadata": {
+      "id": "085cb58e-67b1-468b-933c-4f5df6ee4d2d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "423f345f-faed-4e9d-a1b7-d618f4657ec7",
+    "text": "ed a mail from Jupiter risk management team, they are asking some details and documents for confirmation.\nIf you give them proper reply ( actual truth) they’ll surely reactivate your account post verification. Then you need to wait 24 hours to debit your all money. Please go for the mail with proper",
+    "metadata": {
+      "id": "423f345f-faed-4e9d-a1b7-d618f4657ec7",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "254eac18-25ea-4ef9-b99a-aff506d21d90",
+    "text": "your all money. Please go for the mail with proper information.\nNB . Please, don’t use any trick/ bug advantage , if you used the advantage every app block your account, not only case with Jupiter. Don’t abuse their T & C . ( Someday I noticed some people upgrade their account by fake salary transac",
+    "metadata": {
+      "id": "254eac18-25ea-4ef9-b99a-aff506d21d90",
+      "chunk_index": 3,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ac4e90c5-ae77-4c38-adb3-51d2d8620cc2",
+    "text": "eople upgrade their account by fake salary transaction, that’s reason why Jupiter block their account , further it’s proved Faule )\nTheir another possibility some people use too much money recieved from merchant app, they use Jupiter as a current account or your account recieved some unauthorised cr",
+    "metadata": {
+      "id": "ac4e90c5-ae77-4c38-adb3-51d2d8620cc2",
+      "chunk_index": 4,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "726640b3-b2ab-4867-a47a-956f1951a488",
+    "text": "ount or your account recieved some unauthorised crypto payment .",
+    "metadata": {
+      "id": "726640b3-b2ab-4867-a47a-956f1951a488",
+      "chunk_index": 5,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1daf8c7d-5f7f-4c81-939b-a557a7714aef",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "1daf8c7d-5f7f-4c81-939b-a557a7714aef",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "77ecccad-848f-4955-9c5f-c55fbde64144",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: No , I not do any crypto",
+    "metadata": {
+      "id": "77ecccad-848f-4955-9c5f-c55fbde64144",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "fb6b0f03-c6e7-4441-99ff-4b6248f90f3f",
+    "text": " do any crypto",
+    "metadata": {
+      "id": "fb6b0f03-c6e7-4441-99ff-4b6248f90f3f",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9305e0f5-6145-4a41-b217-59beb58834de",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "9305e0f5-6145-4a41-b217-59beb58834de",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1d4b5a06-ca59-4a1a-beac-62105d5613c0",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: I not receive any mail from Jupiter how can I reply ?",
+    "metadata": {
+      "id": "1d4b5a06-ca59-4a1a-beac-62105d5613c0",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "baed10df-b628-4668-b85b-797ee0467e1f",
+    "text": "ive any mail from Jupiter how can I reply ?",
+    "metadata": {
+      "id": "baed10df-b628-4668-b85b-797ee0467e1f",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b6604d39-e5ee-4fad-9975-cb9bea7767d8",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "b6604d39-e5ee-4fad-9975-cb9bea7767d8",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "32624004-9e9d-421e-bf74-d10047991406",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: I not receive any mail from risk management .In case I recei",
+    "metadata": {
+      "id": "32624004-9e9d-421e-bf74-d10047991406",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c369b49e-31c2-4ca1-a51e-9d1797bfcea6",
+    "text": "ive any mail from risk management .In case I received how can I identify that mail ?",
+    "metadata": {
+      "id": "c369b49e-31c2-4ca1-a51e-9d1797bfcea6",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "e164c392-c5fa-4a8f-9398-9b4948bea9eb",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "e164c392-c5fa-4a8f-9398-9b4948bea9eb",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8c25e522-5339-41b2-ac02-6ba5c4779606",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: Search your mailbox, maybe it’s in your promotional or spam ",
+    "metadata": {
+      "id": "8c25e522-5339-41b2-ac02-6ba5c4779606",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "07042700-54f9-485a-8b96-1480b31626b0",
+    "text": "r mailbox, maybe it’s in your promotional or spam box .",
+    "metadata": {
+      "id": "07042700-54f9-485a-8b96-1480b31626b0",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5859fcc7-e133-4cb0-84b0-36fd9fba0cd3",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "5859fcc7-e133-4cb0-84b0-36fd9fba0cd3",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "81f3edcb-76e0-4794-bacd-a28912568897",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: No bank can frozen yours account without informing you, excl",
+    "metadata": {
+      "id": "81f3edcb-76e0-4794-bacd-a28912568897",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ca05f910-f7c0-4b4f-8c35-546b0b78e8dd",
+    "text": "n frozen yours account without informing you, excludes police case.",
+    "metadata": {
+      "id": "ca05f910-f7c0-4b4f-8c35-546b0b78e8dd",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ba828441-3b07-45f6-b3be-fcab8096b39c",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "ba828441-3b07-45f6-b3be-fcab8096b39c",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "528e13ea-5ccd-4b17-a2e4-bd557b01a95f",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: No, I’m sure I’m not receive any mail",
+    "metadata": {
+      "id": "528e13ea-5ccd-4b17-a2e4-bd557b01a95f",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5d6e9f5a-f3e0-4b81-831c-6c1a39209202",
+    "text": "re I’m not receive any mail",
+    "metadata": {
+      "id": "5d6e9f5a-f3e0-4b81-831c-6c1a39209202",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "3fe60e5e-9505-4fd9-b015-f82eeef04454",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "3fe60e5e-9505-4fd9-b015-f82eeef04454",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "47b7a338-facc-4377-8869-6256f494a837",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: I think the email might be fraud@jupiter.money or support@ju",
+    "metadata": {
+      "id": "47b7a338-facc-4377-8869-6256f494a837",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b227fa4f-6401-4747-aee1-9a9b4289bc08",
+    "text": "e email might be fraud@jupiter.money or support@jupiter.money .Not sure if you receive mail from other mail id\n@Shawnpinto\ncan confirm the mail ID.\nHave you sent an email to support@jupiter.money ? About this incident?",
+    "metadata": {
+      "id": "b227fa4f-6401-4747-aee1-9a9b4289bc08",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "37d2c94e-64df-4894-a9f0-65035899497b",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "37d2c94e-64df-4894-a9f0-65035899497b",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "f50abd70-6cd7-42f9-bbaf-3f46a0f5d608",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: How much money involves here?? in the blocked account",
+    "metadata": {
+      "id": "f50abd70-6cd7-42f9-bbaf-3f46a0f5d608",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "cf3c90d8-7c40-42bf-a46a-a9fe916b5826",
+    "text": "oney involves here?? in the blocked account",
+    "metadata": {
+      "id": "cf3c90d8-7c40-42bf-a46a-a9fe916b5826",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1398d71d-1f7d-41ba-8e84-4335930f60b4",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "1398d71d-1f7d-41ba-8e84-4335930f60b4",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "23ec17d8-2189-4cba-8083-d7ed02f4853d",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: 25000/-",
+    "metadata": {
+      "id": "23ec17d8-2189-4cba-8083-d7ed02f4853d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6245ba94-d066-48f2-8d79-f37d38ccb6a8",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "6245ba94-d066-48f2-8d79-f37d38ccb6a8",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4d0f883d-62cb-4846-b304-6df4a3f49dac",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: Yeah I have already searched I not receive any emails",
+    "metadata": {
+      "id": "4d0f883d-62cb-4846-b304-6df4a3f49dac",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "79d78b87-9bb4-4e2f-a704-0dc7b743abd6",
+    "text": "e already searched I not receive any emails",
+    "metadata": {
+      "id": "79d78b87-9bb4-4e2f-a704-0dc7b743abd6",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "33b44a32-f270-41f8-b983-c93f7cec406d",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "33b44a32-f270-41f8-b983-c93f7cec406d",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9eb809ff-befc-4417-8abf-08d7893a7de4",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: Pls contact support@jupiter.money immediately if not done be",
+    "metadata": {
+      "id": "9eb809ff-befc-4417-8abf-08d7893a7de4",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a0e4db79-e253-4176-a666-9baeab01be92",
+    "text": "t support@jupiter.money immediately if not done before .\nCheck if you have received an email from federal Bank too",
+    "metadata": {
+      "id": "a0e4db79-e253-4176-a666-9baeab01be92",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1fe1b33f-5661-44ab-9ece-531db3e3dfa2",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "1fe1b33f-5661-44ab-9ece-531db3e3dfa2",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "9a88d6ca-2609-4e27-af76-91cf6d3b8e18",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: 25k is a big amount\nNo point waiting anymore\nVisit nearby fe",
+    "metadata": {
+      "id": "9a88d6ca-2609-4e27-af76-91cf6d3b8e18",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "42829fcb-639a-487d-937e-a236575ce4fc",
+    "text": "ig amount\nNo point waiting anymore\nVisit nearby federal bank branch with necessary documents for enquiry",
+    "metadata": {
+      "id": "42829fcb-639a-487d-937e-a236575ce4fc",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "59c41eb2-cb13-43d5-98b7-9180d6205417",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "59c41eb2-cb13-43d5-98b7-9180d6205417",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "5c96416c-d25b-4043-8c75-fd3bc0290da1",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: @Nikhil_Godbole\nCan you confirm the email address ? Risk man",
+    "metadata": {
+      "id": "5c96416c-d25b-4043-8c75-fd3bc0290da1",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "53c876d3-2204-455c-8f5e-414c28773caf",
+    "text": "dbole\nCan you confirm the email address ? Risk management team",
+    "metadata": {
+      "id": "53c876d3-2204-455c-8f5e-414c28773caf",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "8919e8a1-bc6c-4fdc-b8a0-5aad30da1c46",
+    "text": "Q: It has been about a month my account was frozen on all debit transactions. I’ve written a mail several times to fraud operations unit as asked to me in the app but no response, I’ve tried calling numerous times but nobody answers. I’ve written to support team and they always ask me to mail and ca",
+    "metadata": {
+      "id": "8919e8a1-bc6c-4fdc-b8a0-5aad30da1c46",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "b058747e-48b0-424e-a776-9acbcdab6f76",
+    "text": "support team and they always ask me to mail and call fraud operations unit only.\nIt’s been about a month all my money is blocked and transactions are at hold and customer service has been very poor.\nKindly look into this at the earliest\nA: fraudoperations@jupiter.money\ncybercare@jupiter.money\nThese ",
+    "metadata": {
+      "id": "b058747e-48b0-424e-a776-9acbcdab6f76",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6df42816-2877-47c9-914f-030405221cec",
+    "text": "tions@jupiter.money\ncybercare@jupiter.money\nThese are the two email id of the dedicated team that deals with account freeze issue.",
+    "metadata": {
+      "id": "6df42816-2877-47c9-914f-030405221cec",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "45cfb423-a82e-43cd-a711-2a73463130d1",
+    "text": "Q: Few days back I tried to create a Jupiter account. I completed KYC and after the take a selfie step, the app started giving a message ‘Umm. We cannot open a jupiter account for you. There’s an issue with your identity verification. You can close the app.’\nToday I reinstalled the app and I’m getti",
+    "metadata": {
+      "id": "45cfb423-a82e-43cd-a711-2a73463130d1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "4985fc72-32e3-4f9a-91f2-9fe0c88f5370",
+    "text": "he app.’\nToday I reinstalled the app and I’m getting the same error message. Please resolve this issue and fix the identity verification process.\nA: You could contact support@jupiter.money for further help. They can help you with it",
+    "metadata": {
+      "id": "4985fc72-32e3-4f9a-91f2-9fe0c88f5370",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "1f212d7d-17ad-463f-b345-086c7a38d6d1",
+    "text": "Q: Few days back I tried to create a Jupiter account. I completed KYC and after the take a selfie step, the app started giving a message ‘Umm. We cannot open a jupiter account for you. There’s an issue with your identity verification. You can close the app.’\nToday I reinstalled the app and I’m getti",
+    "metadata": {
+      "id": "1f212d7d-17ad-463f-b345-086c7a38d6d1",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "ca6e1fd5-c559-480f-8db5-baf00eca64ee",
+    "text": "he app.’\nToday I reinstalled the app and I’m getting the same error message. Please resolve this issue and fix the identity verification process.\nA: Same problem i am facing more than 1.5 year i have communicated with the support team but problem didn’t solve “issue with identity verification” pleas",
+    "metadata": {
+      "id": "ca6e1fd5-c559-480f-8db5-baf00eca64ee",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "a3d2545b-de94-4fe4-8081-ec693841ad03",
+    "text": "n’t solve “issue with identity verification” please resolve it asap.",
+    "metadata": {
+      "id": "a3d2545b-de94-4fe4-8081-ec693841ad03",
+      "chunk_index": 2,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "c959d5f1-ecb0-4054-ac96-20b641fceea4",
+    "text": "Q: Few days back I tried to create a Jupiter account. I completed KYC and after the take a selfie step, the app started giving a message ‘Umm. We cannot open a jupiter account for you. There’s an issue with your identity verification. You can close the app.’\nToday I reinstalled the app and I’m getti",
+    "metadata": {
+      "id": "c959d5f1-ecb0-4054-ac96-20b641fceea4",
+      "chunk_index": 0,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  },
+  {
+    "id": "6ad0b8c7-8c17-4a89-8189-b54b0812d09d",
+    "text": "he app.’\nToday I reinstalled the app and I’m getting the same error message. Please resolve this issue and fix the identity verification process.\nA: Same issue what to do",
+    "metadata": {
+      "id": "6ad0b8c7-8c17-4a89-8189-b54b0812d09d",
+      "chunk_index": 1,
+      "source": "jupiter_help_qas.json",
+      "category": "customer-support",
+      "tags": [
+        "Jupiter",
+        "Support",
+        "Banking",
+        "FAQ"
+      ]
+    }
+  }
+]
