@@ -132,7 +132,6 @@ Examples are also stored in `ques.txt`.
 
 - Ollama must stay running while using the app.
 - ChromeDriver is required for `jupiter_scraper.py` (used via Selenium).
-- Customize the welcome screen by editing `chainlit.md`.
 
 ---
 
